@@ -13,4 +13,4 @@ Une application web interactive pour évaluer les facteurs de risque liés au ca
 - **Streamlit** (UI Framework)
 
 ## ⚠️ Disclaimer Médical
-Cette application est un outil de démonstration technologique. Elle n'est pas un dispositif médical et ne fournit pas de diagnostic. Toute décision médicale doit être prise par un professionnel de santé.
+Cette application est un outil de démonstration technologique. Elle n'est pas un dispositif médical et ne fournit pas de diagnostic. Bon même si personne ne cherche vraiment de se faire un diagnosticavec ce site .
